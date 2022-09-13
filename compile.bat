@@ -1,0 +1,1 @@
+echo "compilation is good at %date% in %time% !";

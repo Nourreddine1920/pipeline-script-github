@@ -1,0 +1,1 @@
+echo "test succesfully at %date% in %time% ! ";
